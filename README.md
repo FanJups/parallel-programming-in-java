@@ -1,6 +1,8 @@
 # parallel-programming-in-java
 Coursera : Parallel Programming in Java
 
+https://github.com/habanero-rice/PCDP
+
 # Trying to succeed week 1
 
 ## parallel programming coursera assignments
