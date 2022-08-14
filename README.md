@@ -18,3 +18,9 @@ https://www.google.com/search?q=how+to+calcute+sequential+threshold+parallel+jav
 https://ycpcs.github.io/cs365-spring2017/lectures/lecture13.html
 
 https://stackoverflow.com/questions/20177364/how-to-determine-the-proper-work-division-threshold-of-a-fork-join-task
+
+Oracle Concurrency fork join
+
+https://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html
+
+https://docs.oracle.com/javase/tutorial/essential/concurrency/examples/ForkBlur.java
