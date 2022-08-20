@@ -3,10 +3,10 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>edu.coursera.parallel</groupId>
-    <artifactId>miniproject_1</artifactId>
+    <artifactId>miniproject_2</artifactId>
     <packaging>jar</packaging>
     <version>0.0</version>
-    <name>miniproject_1</name>
+    <name>miniproject_2</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
