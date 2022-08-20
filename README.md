@@ -26,3 +26,9 @@ Oracle Concurrency fork join
 https://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html
 
 https://docs.oracle.com/javase/tutorial/essential/concurrency/examples/ForkBlur.java
+
+difference between parallel and concurrent programming
+
+https://www.google.com/search?q=difference+between+parallel+and+concurrent+programming&rlz=1C1UEAD_enFR1017__1017&oq=difference+between+parallel+and+concurrent+&aqs=chrome.1.69i57j0i19l2j0i10i19i22i30j0i19i22i30l6.20246j0j7&sourceid=chrome&ie=UTF-8
+
+https://medium.com/@sanju.skm/parallel-programming-vs-concurrent-programming-f993d3f9ceea#:~:text=A%20system%20is%20said%20to,or%20more%20actions%20executing%20simultaneously.
