@@ -21,14 +21,22 @@ https://ycpcs.github.io/cs365-spring2017/lectures/lecture13.html
 
 https://stackoverflow.com/questions/20177364/how-to-determine-the-proper-work-division-threshold-of-a-fork-join-task
 
-Oracle Concurrency fork join
+# Oracle Concurrency fork join
 
 https://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html
 
 https://docs.oracle.com/javase/tutorial/essential/concurrency/examples/ForkBlur.java
 
-difference between parallel and concurrent programming
+# difference between parallel and concurrent programming
 
 https://www.google.com/search?q=difference+between+parallel+and+concurrent+programming&rlz=1C1UEAD_enFR1017__1017&oq=difference+between+parallel+and+concurrent+&aqs=chrome.1.69i57j0i19l2j0i10i19i22i30j0i19i22i30l6.20246j0j7&sourceid=chrome&ie=UTF-8
 
 https://medium.com/@sanju.skm/parallel-programming-vs-concurrent-programming-f993d3f9ceea#:~:text=A%20system%20is%20said%20to,or%20more%20actions%20executing%20simultaneously.
+
+# java 8 hashmap get key with biggest value
+
+https://www.google.com/search?q=java+8+hashmap+get+key+with+biggest+value&rlz=1C1UEAD_enFR1017__1017&oq=java+8++hashmap+get+key+with+bigg&aqs=chrome.2.69i57j33i10i160l5.45402j0j4&sourceid=chrome&ie=UTF-8
+
+https://www.geeksforgeeks.org/how-to-find-the-entry-with-largest-value-in-a-java-map/
+
+https://www.baeldung.com/java-find-map-max
